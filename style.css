@@ -1,3 +1,4 @@
 body{
     background-color: red;
+    min-height: fit-content;
 }
